@@ -1,0 +1,12 @@
+streamlit
+llama-index
+python-dotenv
+sqlalchemy
+langchain
+openai
+llama-index
+llama-index-core
+langchain-community --trusted-host mirrors.cloud.tencent.com
+db-sqlite3
+pandas
+pypdf
